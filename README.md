@@ -16,3 +16,10 @@ An app made for Treeleaf
 ## Network Library
 * Ktor
 
+## Features
+* Material3 design used (including using color palettes from the Android OS for Android 12 & higher)
+* Offline support
+* MVVM architecture
+* Animations using compose
+* Edge case scenarios covered when no questions are cached
+
